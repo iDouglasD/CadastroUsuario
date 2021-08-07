@@ -1,0 +1,20 @@
+﻿body {
+    font-family: "Poppins", sans-serif;
+    
+}
+
+#logo {
+    color:white;
+}
+
+#nav-links-edit {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    margin-right: 2rem;
+}
+
+
+form button.btn.btn-secondary.my-2.my-sm-0{
+    margin-left:1rem;
+    color:white;
+}
