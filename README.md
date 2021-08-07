@@ -7,6 +7,7 @@ mundomídia
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-icones">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-icones">Ícones</a>&nbsp;&nbsp;&nbsp;
 </p>
    
@@ -39,6 +40,19 @@ Utilitários
 
 O projeto consiste em uma aplicação para cadastro de usuários com banco de dados MySQL que faz um CRUD simples, como foi solicitado pelo desenvolvedor Leonardo. <br>
 Escolhi utilizar a linguagem C# para realização da tarefa para ter uma experiência inicial com a linguagem utilizada pela empresa, logo, o teste se tornou uma oportunidade de entrar mais preparado para o estágio.
+ 
+ ## 🔧 Instalação
+ 
+ Para rodar a aplicação no seu Visual Studio, voce deve instalar as seguintes bibliotecas pelo NuGet:
+ 
+-    MySql.EntityFrameworkCore<br>
+-    Microsoft.EntityFrameworkCore.Tools<br>
+-    System.Data.SqlClient<br>
+ 
+ Devem ser instaladas as últimas versões dessas bibliotecas. <br>
+ Após a instalação, faça a verificação dos termos que não foram reconhecidos ainda, ( CTRL . > Confirmar na opção correspondente a biblioteca).
+ 
+ A aplicação criará o banco de dados quando for executada, cerfique-se de alterar a senha e usuário (caso não seja o padrão root) no arquivo Startup.cs.
 
 ## 🏁 Icones
 
