@@ -39,7 +39,7 @@ Utilitários
 ## 💻 Projeto
 
 O projeto consiste em uma aplicação para cadastro de usuários com banco de dados MySQL que faz um CRUD simples, como foi solicitado pelo desenvolvedor Leonardo. <br>
-Escolhi utilizar a linguagem C# para realização da tarefa para ter uma experiência inicial com a linguagem utilizada pela empresa, logo, o teste se tornou uma oportunidade de entrar mais preparado para o estágio.
+Escolhi utilizar a linguagem C# para realização da tarefa para ter uma experiência inicial com a linguagem utilizada pela empresa, logo, o teste se tornou uma oportunidade de entrar mais preparado para a vaga.
  
  ## 🔧 Instalação
  
